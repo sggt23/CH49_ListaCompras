@@ -3,7 +3,7 @@ Se muestra una página que permite crear una lista de compras de forma dinámica
 
 El archivo index.html muestra una plantilla para comenzar con la programación de dicha funcionalidad como se muestra a continuación:
 
-![Image](https://github.com/jcgeneration/CH45_ListaCompras/blob/main/img/SplashScreen.png)
+![Image](https://github.com/jcgeneration/CH49_ListaCompras/blob/main/img/SplashScreen.png)
 
 > Los archivos se proporcionan con fines didácticos
 
