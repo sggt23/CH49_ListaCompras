@@ -158,10 +158,10 @@ btnClear.addEventListener("click", function(event){
     
     datos.forEach((r)=>{
         let row=`<tr>
-                    <td>${cont}</td> 
-                    <td>${txtName.value}</td>
-                    <td>${txtNumber.value}</td>
-                    <td>${precio}</td>
+                    <td>${r.cont}</td> 
+                    <td>${r.nombre}</td>
+                    <td>${r.cantidad}</td>
+                    <td>${r.precio}</td>
                 </tr>`;
         cuerpoTabla.insertAdjacentHTML("beforeend",row);
     });
